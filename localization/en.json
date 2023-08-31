@@ -1,0 +1,77 @@
+{
+  "lang": {
+    "title": "Select the Language.",
+    "subtitle":"Please select which language you want.",
+    "button":"Continue"
+  },
+  "login":{
+    "title":"Let's sign you in.",
+    "subtitle":"Please sign in with your details.",
+    "email":"Email Address",
+    "password":"Password",
+    "or":"Or sign in with",
+    "button":"Sign In",
+    "register":"Don't have an account? ",
+    "register2":"Create",
+    "loginerror1":"Account not Found. Please Register",
+    "loginerror2":"Password is wrong! try again",
+    "loginsuccess":"Successfully Logged!"
+  },
+  "register":{
+    "title":"Create Account",
+    "subtitle":"Please enter your details.",
+    "name":"Full Name",
+    "email":"Email Address",
+    "password":"Password",
+    "repassword":"Confirm Password",
+    "button":"Sign Up",
+    "button2":"Registering..",
+    "button3":"Registered",
+    "success":"Congratulations! Registration is completed",
+    "emailError":"Email address is already in use!",
+    "emailError2":"Email address is invalid!",
+    "passwordError":"Passwords are Not matching",
+    "passwordError2":"Given password is invalid. ( Password should be at least 6 characters )"
+  },  
+  "welcome": {
+    "title": "Welcome!",
+    "subtitle": "Discover, Connect, Explore – Your Journey Starts Here",
+    "text":"Welcome to our Auto-Mobile Assistant app! Simplify your vehicle management with ease. Track and store service records effortlessly. From oil changes to tire rotations, we've got you covered. Start managing your auto services conveniently and stay on top of your vehicle's maintenance journey. Let's get started!",
+    "button":"Done"
+  },  
+  "drawer": {
+    "home": "Home",
+    "settings": "Settings",
+    "logout":"Logout"
+  },
+  "home": {
+    "title": "Your vehicle list",
+    "emptytitle": "No Vehicle listed yet",
+    "emptysubtitle": "Please add your vehicles to start",
+    "button":"Add Vechicle",
+    "bttitle1":"Select your vehicle type",
+    "bttitle2":"Vehicle Number",
+    "bttitle3":"Nick Name (Optional)",
+    "bttitle4":"Current Mileage",
+    "bttitle5":"Mileage updating duration"
+
+  },  
+  "settings": {
+    "title": "Settings",
+    "menu1": "Account",
+    "menu1Title":"Language"
+  },  
+  "services": {
+    "title": "Vehicle - "
+  },  
+  "singleservices": {
+    "bttitle1": "Done date - ",
+    "bttitle2": "Next service mileage",
+    "bttitle3": "Need to remind?",
+    "emptyTitle":"No services listed yet",
+    "emptysubtitle":"Please add a service that your vehicle need to do",
+    "next":"Next Service | ",
+    "button":"Add Service"
+  }
+
+}

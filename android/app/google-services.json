@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "759709921503",
+    "project_id": "automobileassistant-bcb96",
+    "storage_bucket": "automobileassistant-bcb96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759709921503:android:18e9ecc8f3cfadfae3b96a",
+        "android_client_info": {
+          "package_name": "com.manaapps.automobileassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759709921503-j5smq5c8kegp2pqp0p4na2r8jbhvljbu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manaapps.automobileassistant",
+            "certificate_hash": "4bcc736f0825d2b961dd06efc4e6292fd8dae5f4"
+          }
+        },
+        {
+          "client_id": "759709921503-ip9vlrl5l9qgdif781fdvm5jhj1todta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCmPQOcQopp-jieE1OpfUtqaTIJnIwpZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759709921503-03mepc3svn22jv715kf6sd3vs6rpdsaq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
